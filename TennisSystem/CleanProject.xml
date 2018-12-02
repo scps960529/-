@@ -1,0 +1,22 @@
+<PatternSetting>
+	<FolderPatterns>
+		<string>bin</string>
+		<string>obj</string>
+		<string>debug</string>
+		<string>release</string>
+		<string>.vs</string>
+	</FolderPatterns>
+	<FilePatterns>
+		<string>*.ncb</string>
+	</FilePatterns>
+</PatternSetting>
+
+
+
+
+
+
+
+
+
+
